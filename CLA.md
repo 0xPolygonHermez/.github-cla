@@ -3,7 +3,7 @@
 
 This Contributor License Agreement ("Agreement") is entered into by and between the undersigned individual or entity ("Contributor") and SilentSig Switzerland GmbH, a company registered in Zug, Switzerland ("SilentSig"). 
 
-### 1.​Definitions 
+### 1. Definitions 
 
 - ​ "Contribution" means any original work of authorship, including any modifications or additions to existing work, submitted by Contributor to SilentSig, in any form. 
 
