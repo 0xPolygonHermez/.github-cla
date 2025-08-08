@@ -29,7 +29,7 @@ Contributor represents and warrants that:
 
 SilentSig is not obligated to use, distribute, or incorporate any Contribution into the Project.
 
-### 6.​Independent Contractor 
+### 6. Independent Contractor 
 
 This Agreement does not create an employer-employee relationship, partnership, or joint venture. All Contributions are made voluntarily. 
 
