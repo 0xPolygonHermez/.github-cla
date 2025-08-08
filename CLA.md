@@ -37,7 +37,7 @@ This Agreement does not create an employer-employee relationship, partnership, o
 
 This Agreement shall be governed by and construed in accordance with the laws of Switzerland. The courts of Zug shall have exclusive jurisdiction. 
 
-### 8.​Entire Agreement 
+### 8. Entire Agreement 
 
 This Agreement constitutes the entire agreement between the parties concerning Contributions to the Project and supersedes all prior or contemporaneous agreements. 
 
