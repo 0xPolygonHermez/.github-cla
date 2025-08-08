@@ -9,7 +9,7 @@ This Contributor License Agreement ("Agreement") is entered into by and between 
 
 - "Project" refers to the SilentSig project and any related or derivative projects managed by SilentSig. 
 
-### 2.​Grant of Copyright 
+### 2. Grant of Copyright 
 
 Contributor hereby assigns and transfers to SilentSig all right, title, and interest in and to any Contribution made to the Zisk Project and any related project under the github organization https://github.com/0xPolygonHermez, including all associated intellectual property rights worldwide. 
 
