@@ -21,7 +21,7 @@ To the maximum extent permitted by applicable law, Contributor waives all moral 
 
 Contributor represents and warrants that:
 
-- ​ Each Contribution is an original work and that Contributor has the right to assign the rights granted herein.
+- Each Contribution is an original work and that Contributor has the right to assign the rights granted herein.
 
 - The Contribution does not infringe the intellectual property rights of any third party.
 
