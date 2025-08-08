@@ -27,7 +27,7 @@ jobs:
           PERSONAL_ACCESS_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         with:
           path-to-signatures: 'signatures/version1/cla.json'
-          path-to-document: 'https://github.com/0xPolygonHermez/.github-cla/blob/main/CLA.html'
+          path-to-document: 'https://github.com/0xPolygonHermez/.github-cla/blob/main/CLA_Zisk.html'
           branch: 'main'
           allowlist: ${{ inputs.allowlist }}
           remote-organization-name: '0xPolygonHermez'
