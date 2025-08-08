@@ -1,4 +1,4 @@
-# Workflow reutilizable para uso en .github-cla/
+# Reusable workflow for use in .github-cla/
 name: "Reusable CLA Workflow"
 
 on:
