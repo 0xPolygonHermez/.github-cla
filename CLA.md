@@ -17,7 +17,7 @@ Contributor hereby assigns and transfers to SilentSig all right, title, and inte
 
 To the maximum extent permitted by applicable law, Contributor waives all moral rights in any Contribution in favor of SilentSig and its licensees. 
 
-### 4.​Warranties
+### 4. Warranties
 
 Contributor represents and warrants that:
 
