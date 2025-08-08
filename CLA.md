@@ -33,7 +33,7 @@ SilentSig is not obligated to use, distribute, or incorporate any Contribution i
 
 This Agreement does not create an employer-employee relationship, partnership, or joint venture. All Contributions are made voluntarily. 
 
-### 7.​Governing Law and Jurisdiction 
+### 7. Governing Law and Jurisdiction 
 
 This Agreement shall be governed by and construed in accordance with the laws of Switzerland. The courts of Zug shall have exclusive jurisdiction. 
 
