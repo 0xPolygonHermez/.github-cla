@@ -25,7 +25,7 @@ Contributor represents and warrants that:
 
 - The Contribution does not infringe the intellectual property rights of any third party.
 
-### 5.​No Obligation to Use 
+### 5. No Obligation to Use 
 
 SilentSig is not obligated to use, distribute, or incorporate any Contribution into the Project.
 
