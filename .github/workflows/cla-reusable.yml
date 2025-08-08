@@ -1,0 +1,34 @@
+# Workflow reutilizable para uso en .github-cla/
+name: "Reusable CLA Workflow"
+
+on:
+  workflow_call:
+    inputs:
+      allowlist:
+        description: 'Bot users to allowlist'
+        required: false
+        default: 'bot*,dependabot*'
+        type: string
+
+permissions:
+  actions: write
+  contents: write
+  pull-requests: write
+  statuses: write
+
+jobs:
+  CLABot:
+    runs-on: ubuntu-latest
+    steps:
+      - name: "CLA Signature Bot"
+        uses: contributor-assistant/github-action@v2.3.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PERSONAL_ACCESS_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+        with:
+          path-to-signatures: 'signatures/version1/cla.json'
+          path-to-document: 'https://github.com/0xPolygonHermez/.github-cla/blob/main/CLA.html'
+          branch: 'main'
+          allowlist: ${{ inputs.allowlist }}
+          remote-organization-name: '0xPolygonHermez'
+          remote-repository-name: '.github-cla'
