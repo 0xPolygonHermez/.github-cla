@@ -5,7 +5,7 @@ This Contributor License Agreement ("Agreement") is entered into by and between 
 
 ### 1. Definitions 
 
-- ​ "Contribution" means any original work of authorship, including any modifications or additions to existing work, submitted by Contributor to SilentSig, in any form. 
+- "Contribution" means any original work of authorship, including any modifications or additions to existing work, submitted by Contributor to SilentSig, in any form. 
 
 - "Project" refers to the SilentSig project and any related or derivative projects managed by SilentSig. 
 
