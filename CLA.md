@@ -13,7 +13,7 @@ This Contributor License Agreement ("Agreement") is entered into by and between 
 
 Contributor hereby assigns and transfers to SilentSig all right, title, and interest in and to any Contribution made to the Zisk Project and any related project under the github organization https://github.com/0xPolygonHermez, including all associated intellectual property rights worldwide. 
 
-### 3.​Moral Rights 
+### 3.Moral Rights 
 
 To the maximum extent permitted by applicable law, Contributor waives all moral rights in any Contribution in favor of SilentSig and its licensees. 
 
